@@ -16,3 +16,4 @@ $router->run();
 $router->match();
 
 echo "Новое изменение";
+echo "Изменение";
