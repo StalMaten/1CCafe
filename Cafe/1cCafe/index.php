@@ -14,6 +14,3 @@ spl_autoload_register(function ($class){
 $router=new Router();
 $router->run();
 $router->match();
-
-echo "Новое изменение";
-echo "Изменение";
